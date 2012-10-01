@@ -1,0 +1,10 @@
+{
+  "name": "path",
+  "repo": "jmars/path",
+  "description": "Path component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts":["index.js"]
+}
